@@ -45,56 +45,56 @@ books = [
     {'id': 24, 'title': 'Database System Concepts', 'author': 'Abraham Silberschatz et al.', 'description': 'An introduction to database systems.', 'image': 'https://i.pinimg.com/236x/65/bb/61/65bb61ff28075da728cda25a1d62fc7b.jpg', 'link':'https://people.vts.su.ac.rs/~peti/Baze%20podataka/Literatura/Silberschatz-Database%20System%20Concepts%206th%20ed.pdf'},
     {'id': 25, 'title': 'Computer Networks', 'author': 'Andrew S. Tanenbaum', 'description': 'A comprehensive introduction to networking.', 'image': 'https://i.pinimg.com/236x/75/64/71/75647102b7a429b9902905aa97b77c59.jpg', 'link':'https://vfu.bg/en/e-Learning/Computer-Networks--Introduction_Computer_Networking.pdf'},
 
-    {'id': 26, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://placekitten.com/200/325'},
+    {'id': 26, 'title': 'Artificial Intelligence for Humans', 'author': 'Jeff Heaton', 'description': 'An introduction to AI concepts.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 27, 'title': 'Software Engineering at Google', 'author': 'Titania McGrath et al.', 'description': 'Insights into software engineering practices at Google.', 'image': 'https://placekitten.com/200/326'},
+    {'id': 27, 'title': 'Software Engineering at Google', 'author': 'Titania McGrath et al.', 'description': 'Insights into software engineering practices at Google.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 28, 'title': 'The Art of Electronics', 'author': 'Paul Horowitz and Winfield Hill', 'description': 'A comprehensive guide to electronics.', 'image': 'https://placekitten.com/200/327'},
+    {'id': 28, 'title': 'The Art of Electronics', 'author': 'Paul Horowitz and Winfield Hill', 'description': 'A comprehensive guide to electronics.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 29, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://placekitten.com/200/328'},
+    {'id': 29, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 30, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://placekitten.com/200/329'},
+    {'id': 30, 'title': 'Computer Security: Principles and Practice', 'author': 'William Stallings and Lawrie Brown', 'description': 'A comprehensive guide to computer security.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 31, 'title': 'The Design of the UNIX Operating System', 'author': 'Maurice J. Bach', 'description': 'A detailed look at UNIX system design.', 'image': 'https://placekitten.com/200/330'},
+    {'id': 31, 'title': 'The Design of the UNIX Operating System', 'author': 'Maurice J. Bach', 'description': 'A detailed look at UNIX system design.','image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 32, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/331'},
+    {'id': 32, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 33, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.', 'image': 'https://placekitten.com/200/332'},
+    {'id': 33, 'title': 'Introduction to Information Retrieval', 'author': 'Christopher D. Manning et al.', 'description': 'A comprehensive guide to information retrieval.','image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 34, 'title': 'Computer Vision: A Modern Approach', 'author': 'David Forsyth and Jean Ponce', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://placekitten.com/200/333'},
+    {'id': 34, 'title': 'Computer Vision: A Modern Approach', 'author': 'David Forsyth and Jean Ponce', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 35, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://placekitten.com/200/334'},
+    {'id': 35, 'title': 'Machine Learning: A Probabilistic Perspective', 'author': 'Kevin P. Murphy', 'description': 'An introduction to probabilistic machine learning.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
    
-    {'id': 36, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://placekitten.com/200/335'},
+    {'id': 36, 'title': 'Data Mining: Concepts and Techniques', 'author': 'Jiawei Han et al.', 'description': 'A comprehensive guide to data mining techniques.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 37, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://placekitten.com/200/336'},
+    {'id': 37, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 38, 'title': 'The Elements of Statistical Learning', 'author': 'Trevor Hastie et al.', 'description': 'A comprehensive guide to statistical learning.', 'image': 'https://placekitten.com/200/337'},
+    {'id': 38, 'title': 'The Elements of Statistical Learning', 'author': 'Trevor Hastie et al.', 'description': 'A comprehensive guide to statistical learning.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 39, 'title': 'Artificial Intelligence: A Guide to Intelligent Systems', 'author': 'Michael Negnevitsky', 'description': 'An introduction to intelligent systems.', 'image': 'https://placekitten.com/200/338'},
+    {'id': 39, 'title': 'Artificial Intelligence: A Guide to Intelligent Systems', 'author': 'Michael Negnevitsky', 'description': 'An introduction to intelligent systems.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 40, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://placekitten.com/200/339'},
+    {'id': 40, 'title': 'Introduction to Machine Learning', 'author': 'Ethem Alpaydin', 'description': 'An overview of machine learning concepts.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 41, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.', 'image': 'https://placekitten.com/200/340'},
+    {'id': 41, 'title': 'Computer Graphics: Principles and Practice', 'author': 'John F. Hughes et al.', 'description': 'A foundational text on computer graphics.','image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 42, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.', 'image': 'https://placekitten.com/200/341'},
+    {'id': 42, 'title': 'Digital Design and Computer Architecture', 'author': 'David Harris and Sarah Harris', 'description': 'A comprehensive guide to digital design.','image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 43, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://placekitten.com/200/342'},
+    {'id': 43, 'title': 'Introduction to the Theory of Computation', 'author': 'Michael Sipser', 'description': 'Fundamentals of computation theory.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 44, 'title': 'Computer Vision: Algorithms and Applications', 'author': 'Richard Szeliski', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://placekitten.com/200/343'},
+    {'id': 44, 'title': 'Computer Vision: Algorithms and Applications', 'author': 'Richard Szeliski', 'description': 'A comprehensive guide to computer vision.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 45, 'title': 'The Art of Computer Programming', 'author': 'Donald E. Knuth', 'description': 'A comprehensive monograph on algorithms.', 'image': 'https://placekitten.com/200/344'},
+    {'id': 45, 'title': 'The Art of Computer Programming', 'author': 'Donald E. Knuth', 'description': 'A comprehensive monograph on algorithms.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 46, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://placekitten.com/200/345'},
+    {'id': 46, 'title': 'Introduction to Quantum Computing', 'author': 'Michael A. Nielsen and Isaac L. Chuang', 'description': 'An introduction to quantum computing concepts.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 47, 'title': 'Computer Networking: A Top-Down Approach', 'author': 'James Kurose and Keith Ross', 'description': 'Introduction to computer networking.', 'image': 'https://placekitten.com/200/346'},
+    {'id': 47, 'title': 'Computer Networking: A Top-Down Approach', 'author': 'James Kurose and Keith Ross', 'description': 'Introduction to computer networking.','image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 48, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.', 'image': 'https://placekitten.com/200/347'},
+    {'id': 48, 'title': 'Artificial Intelligence: A Modern Approach', 'author': 'Stuart Russell and Peter Norvig', 'description': 'Comprehensive introduction to AI.','image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 49, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://placekitten.com/200/348'},
+    {'id': 49, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'description': 'A code of conduct for professional programmers.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
-    {'id': 50, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://placekitten.com/200/349'},
+    {'id': 50, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho et al.', 'description': 'A foundational text on compiler design.', 'image': 'https://i.pinimg.com/236x/02/0d/3b/020d3bc29513501a8c634749b71df35a.jpg', 'link':'https://www.dcpehvpm.org/E-Content/BCA/BCA-III/artificial_intelligence_tutorial.pdf'},
 
     {'id': 51, 'title': 'Computer Architecture: A Quantitative Approach', 'author': 'John L. Hennessy and David A. Patterson', 'description': 'In-depth study of computer architecture.', 'image': 'https://i.pinimg.com/736x/eb/3a/ee/eb3aeeaaaf36ca48a2d6adcc062cc909.jpg', 'link':'https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf'},
 
